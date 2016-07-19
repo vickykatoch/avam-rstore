@@ -1,0 +1,3 @@
+export const LOAD_ARTICLES = 'LOAD_ARTICLES';
+export const SAVE_ARTICLE = 'SAVE_ARTICLE';
+
